@@ -39,5 +39,19 @@ I'm currently focused on strengthening my skills in JavaScript, React, TypeScrip
 </p>
 
 
+---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lutfun-naher-shahanaj-6b7926370/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  <a href="https://github.com/shnj2025">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+  <a href="https://sites.google.com/view/lutfunnahershahanaj/home">
+    <img src="https://skillicons.dev/icons?i=googlechrome" width="45" />
+  </a>
+</p>
 
