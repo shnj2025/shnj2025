@@ -38,20 +38,17 @@ I'm currently focused on strengthening my skills in JavaScript, React, TypeScrip
   <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,git,github,vscode" />
 </p>
 
-
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lutfun-naher-shahanaj-6b7926370/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
   <a href="https://github.com/shnj2025">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://sites.google.com/view/lutfunnahershahanaj/home">
-    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=googlechrome" />
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
 </p>
+
 
