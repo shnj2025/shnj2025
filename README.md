@@ -26,3 +26,18 @@ I'm currently focused on strengthening my skills in JavaScript, React, TypeScrip
 - 📚 Strengthening my **JavaScript and problem-solving skills**
 - 🔨 Working on practical web-development projects
 - 🎯 Preparing for future **web-development internships**
+
+
+
+
+---
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,git,github,vscode" />
+</p>
+
+
+
+
