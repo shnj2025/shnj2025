@@ -52,3 +52,20 @@ I'm currently focused on strengthening my skills in JavaScript, React, TypeScrip
 </p>
 
 
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shnj2025&show_icons=true&theme=default" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shnj2025&layout=compact&theme=default" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shnj2025&theme=default" height="170" />
+</p>
+
+
+
